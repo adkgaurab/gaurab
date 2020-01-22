@@ -200,7 +200,7 @@ namespace ASE_Component_I
             pYaxis = b;
         }
         /// <summary>
-        /// takes every line of the command and checks for the shape names 
+        
         /// if it is in array shapes.
         /// </summary>
         /// <param name="line">line of command stored after each loop </param>
