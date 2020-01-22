@@ -186,7 +186,7 @@ namespace ASE_Component_I
 
         }
         /// <summary>
-        /// method to draw a line from (pXaxis,pYaxis) to 
+        
         /// given points (a,b)
         /// </summary>
         /// <param name="a"></param>
